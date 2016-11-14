@@ -1,5 +1,7 @@
 ﻿using System;
-
+/// <summary>
+/// Решение квадратного уравнения.
+/// </summary>
 namespace Discrimino
 {
     class Program
